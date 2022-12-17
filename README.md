@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software engineering and software developement 
 - 👨‍🎓 I'm studying for the bachelor degree in Computer Science at University of Tehran
 - 🌱 I’m currently learning Java and software developement and design patterns and ...
-- 👨‍💻 I'm working on a messenger project with [Client](https://github.com/Pedram-Mirelmi/PMessenger-Client) and [Server](https://github.com/Pedram-Mirelmi/PMessenger-Server) parts
+- 👨‍💻 I'm working on a messenger project with [Client](https://github.com/Pedram-Mirelmi/PMessenger-Client) using Qt/QML and [Server](https://github.com/Pedram-Mirelmi/PMessenger-Server) using Boost.ASIO 
 - 🎸 I also play electric guitar and love classic rock music
 
 <!---
