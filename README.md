@@ -1,9 +1,7 @@
 - #### 👋 Hi, I’m @Pedram-Mirelmi!
 - #### 👀 I’m interested in Software engineering and development.
 - #### 📊 I know C++, Python, Java, a little C# & SQL
-- #### 👨‍🎓 I'm studying for bachelor's degree in Computer Science at the University of Tehran.
-- #### 👨‍💻 Recently I've been into developing libraries and just finished writing a [simple networking library](https://github.com/Pedram-Mirelmi/Simple-Java-Server-Lib) in `Java`
-
+- #### 👨‍🎓 I'm a Computer Science Bachelor's graduate from the University of Tehran and am currently studying master's of Computer Science at RPTU.
 - #### 🎸 I'm an electric guitar player and play classic rock music in my free time.
 
 <div align="center">
